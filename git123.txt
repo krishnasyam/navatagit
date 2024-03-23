@@ -1,0 +1,4 @@
+Define the virtual private cloud (VPC) and subnets where the EC2 instance will live.
+Create an EC2 instance within the VPC.
+Configure the security groups to allow HTTP/HTTPS traffic so that Nexus can be accessed over the web.
+Use a user data script to install and start Nexus on the EC2 instance.
